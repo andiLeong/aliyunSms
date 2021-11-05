@@ -2,6 +2,14 @@
 
 ## A package that send sms api request to aliyun 
 
+A Package that communicate with aliyun sms api to trigger send sms functionality 
+it's TDD using phpunit , using guzzle under the hood for http client.
+
+## Installation
+```
+composer require andileong/aliyun-sms
+```
+
 
 ## Usage
 
